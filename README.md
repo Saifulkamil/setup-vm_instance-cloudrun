@@ -15,4 +15,6 @@
     
     cd projek_todolist/
     npm install
-    npm run dev
+    npm run dev //untuk debug
+    npm run build
+    npm run preview 
