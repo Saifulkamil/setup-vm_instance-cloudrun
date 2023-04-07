@@ -2,7 +2,7 @@
 
     node -v
     curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
-    reboot
+    sudo reboot
     nvm ls-remote
     nvm install v18.14.1
     
