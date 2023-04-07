@@ -1,6 +1,6 @@
 # setup-vm-nstanceGC
 
-    node -v
+    node -v  //untuk melihat versi node
     curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
     sudo reboot
     nvm ls-remote
