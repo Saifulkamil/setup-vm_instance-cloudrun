@@ -1,4 +1,5 @@
-# setup-vm-nstanceGC
+# setup-vm-nstanceGC-cloud run
+
 
     node -v  //untuk melihat versi node
     curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
